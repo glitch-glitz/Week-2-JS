@@ -40,5 +40,20 @@ console.log(name +"Kanyua") return value will be "Peterson Kanyua"
 * Double bang (!!)
 ............converts datatypes to boolean
 ............shortcut to the boolean constructor 
+* Bang operator (!)
+------------returns the oposite 
+* AND (&&) and OR (||)
+------------Allow to combine boolean expressions
 
-3. Number 
+console.log(2 === 2 && 2 == "2" || (2!==3))-------------- this gives true
+
+for AND every expression has to evaluate to true in order for the entire expression to be true
+
+for the OR only one of the expressions need to be true for the entire expression to be true
+
+3. Number (>, <, <=, >=)
+
+
+* * -->> Statements 
+...Selection (if, switch)
+... Repetition (do/while, while)
